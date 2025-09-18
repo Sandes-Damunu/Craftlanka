@@ -2,7 +2,7 @@
 
 > 🚧 **Under Development** – This project is a work in progress.
 
-Craftlnak is a modern web platform (working title) focused on providing a creative and engaging experience for users.  
+Craftlanka is a modern web platform (working title) focused on providing a creative and engaging experience for users.  
 The goal is to deliver a visually appealing, fast, and mobile-friendly site with scalable back-end support.
 
 ## Features (Planned)
