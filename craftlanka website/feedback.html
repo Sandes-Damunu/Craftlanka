@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feedback - CraftLanka</title>
+    <link rel="stylesheet" href="craftlanka.css">
+</head>
+<body>
+
+<header>
+    <h1>Feedback</h1>
+    <nav>
+        <a href="craftlanka.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="order.html">Order</a>
+        <a href="about.html">About</a>
+        <a href="feedback.html">Feedback</a>
+    </nav>
+</header>
+
+<main>
+    <h2>We’d love to hear from you!</h2>
+    <form onsubmit="return validateForm()">
+        <label>Your Name:</label><br>
+        <input type="text" id="name" required><br><br>
+
+        <label>Your Message:</label><br>
+        <textarea id="message" rows="5" required></textarea><br><br>
+
+        <button type="submit">Send Feedback</button>
+    </form>
+</main>
+
+<script>
+    function validateForm() {
+        let name = document.getElementById("name").value;
+        let msg = document.getElementById("message").value;
+        if (name.trim() === "" || msg.trim() === "") {
+            alert("Please fill in all fields.");
+            return false;
+        }
+        alert("Thank you for your feedback!");
+        return true;
+    }
+</script>
+
+<footer>
+    <p>&copy; 2025 CraftLanka</p>
+</footer>
+
+</body>
+</html>
