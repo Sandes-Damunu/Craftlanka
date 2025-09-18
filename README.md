@@ -25,7 +25,20 @@ The goal is to deliver a visually appealing, fast, and mobile-friendly site with
 - [x] Back-end APIs  
 - [x] Deployment pipeline
 
-[![Visit Sri Lanka](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/57/3c/70/visit-my-sri-lanka.jpg?w=1100&h=-1&s=1)](https://www.srilanka.travel/)
+
+<p align="center">
+  <a href="https://www.srilanka.travel/">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/8/83/Srilanka_logo.png/revision/latest?cb=20150502050036"
+         alt="Visit Sri Lanka"
+         width="400"
+      align = left
+      height = "300">
+  </a>
+</p> 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Getting Started (Development)
 
