@@ -1,4 +1,4 @@
-# Craftlnak
+# Craftlanka
 
 > 🚧 **Under Development** – This project is a work in progress.
 
@@ -24,6 +24,8 @@ The goal is to deliver a visually appealing, fast, and mobile-friendly site with
 - [✔️] Front-end implementation  
 - [x] Back-end APIs  
 - [x] Deployment pipeline
+
+[![Visit Sri Lanka](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Sri_Lanka.svg/320px-Flag_of_Sri_Lanka.svg.png)](https://www.srilanka.travel/)
 
 ## Getting Started (Development)
 
